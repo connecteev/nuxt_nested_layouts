@@ -1,4 +1,5 @@
 # nuxt_nested_layouts
+This is code for nested nuxt layouts, inspired from https://github.com/nuxt/nuxt.js/issues/785#issuecomment-422365721
 
 ## Build Setup
 
